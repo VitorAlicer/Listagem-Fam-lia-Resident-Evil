@@ -1,0 +1,15 @@
+.personagens-container {
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  padding-top: 50px;
+}
+
+.personagens-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+h3 {
+  margin-bottom: 20px;
+}
